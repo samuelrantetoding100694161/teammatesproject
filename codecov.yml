@@ -30,3 +30,8 @@ ignore:
   - "src/main/java/com/google/appengine/logging/v1/*.java"
 codecov:
   disable_default_path_fixes: false
+  
+codecov:
+  token: 5dd6e7a5-ba33-49ac-9f6c-0ceeca495f98
+
+
