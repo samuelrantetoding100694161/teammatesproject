@@ -4,7 +4,7 @@
 [![GitHub Actions Build Status E2E Tests](https://github.com/TEAMMATES/teammates/workflows/E2E%20Tests/badge.svg)](https://github.com/TEAMMATES/teammates/actions)
 [![Codecov Coverage Status](https://codecov.io/gh/TEAMMATES/teammates/branch/master/graph/badge.svg)](https://codecov.io/gh/TEAMMATES/teammates)
 [![License](https://img.shields.io/badge/license-GPLv2-blue.svg)](LICENSE)
-[![Codecov Coverage Status](https://codecov.io/gh/samuelrantetoding100694161/teammatesproject/branch/master/graph/badge.svg)](ttps://app.codecov.io/gh/samuelrantetoding100694161/teammatesproject/)
+https://img.shields.io/codecov/c/gh/samuelrantetoding100694161/teammatesproject?token=5dd6e7a5-ba33-49ac-9f6c-0ceeca495f98
 TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 It is provided as a cloud-based service for educators/students and is currently used by hundreds of universities across the world.
 
